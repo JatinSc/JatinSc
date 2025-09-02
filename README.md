@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/jatin12891539" target="blank"><img src="https://img.shields.io/twitter/follow/jatin12891539?logo=twitter&style=for-the-badge" alt="jatin12891539" /></a> </p>
 
-- 🌱 I’m currently learning **DJango**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-v2-1-3en9.onrender.com/](https://portfolio-v2-1-3en9.onrender.com/)
 
