@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DJango**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jatin.onrender.com/](https://portfolio-jatin.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-v2-1-3en9.onrender.com/](https://portfolio-v2-1-3en9.onrender.com/)
 
 - 💬 Ask me about **MERN , Gaming , Art**
 
